@@ -12,6 +12,7 @@ My notes from working through [The Rust Programming Language](https://doc.rust-l
 | [Chapter 5](ch5.md) | Using Structs | Structs, methods, associated functions |
 | [Chapter 6](ch6.md) | Enums and Pattern Matching | Enums, Option, match, if let |
 | [Chapter 7](ch7.md) | Managing Growing Projects | Packages, crates, modules, use |
+| [Chapter 8](ch8.md) | Common Collections | Vec, String, HashMap |
 
 ## About
 
